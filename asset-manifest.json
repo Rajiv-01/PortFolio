@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PortFolio/static/css/main.98d77f2b.css",
+    "main.js": "/PortFolio/static/js/main.1b487803.js",
+    "static/media/Pyment.png": "/PortFolio/static/media/Pyment.516d4c6e4fbe0810e6e0.png",
+    "static/media/HomePage.png": "/PortFolio/static/media/HomePage.f4a19e92fea2e2432921.png",
+    "static/media/NewsFlash.png": "/PortFolio/static/media/NewsFlash.1d5b3fc900009bbe840c.png",
+    "static/media/me.png": "/PortFolio/static/media/me.057de6231625f30c17be.png",
+    "static/media/IMG_8757.webp": "/PortFolio/static/media/IMG_8757.c19131bef48888efcc2c.webp",
+    "static/media/Nft.jpeg": "/PortFolio/static/media/Nft.b953796a02d4635baa46.jpeg",
+    "static/media/Music_controller.jpg": "/PortFolio/static/media/Music_controller.bebf370344eed63463ff.jpg",
+    "static/media/teamwork.jpg": "/PortFolio/static/media/teamwork.a663d55720224509d720.jpg",
+    "static/media/confident.webp": "/PortFolio/static/media/confident.211596fd77f67d6856d2.webp",
+    "static/media/PStack.png": "/PortFolio/static/media/PStack.a7da210c9cd2219177d0.png",
+    "static/media/Rajiv_Sharma_Resume.pdf": "/PortFolio/static/media/Rajiv_Sharma_Resume.a2eeac0b4c0145bae85c.pdf",
+    "static/media/communication.webp": "/PortFolio/static/media/communication.c91c3443a90d9953c794.webp",
+    "static/media/leadership.webp": "/PortFolio/static/media/leadership.e546094217b9ed76d219.webp",
+    "index.html": "/PortFolio/index.html",
+    "main.98d77f2b.css.map": "/PortFolio/static/css/main.98d77f2b.css.map",
+    "main.1b487803.js.map": "/PortFolio/static/js/main.1b487803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d77f2b.css",
+    "static/js/main.1b487803.js"
+  ]
+}
